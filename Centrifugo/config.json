@@ -8,5 +8,6 @@
     "*"
   ],
   "publish": true,
-  "presence": true
+  "presence": true,
+  "join_leave": true
 }
